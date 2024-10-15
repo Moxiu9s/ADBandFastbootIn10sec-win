@@ -13,13 +13,13 @@ ADBandFastbootIn10sec-win is a simple Python script that automates the installat
 To install ADB and Fastboot using this tool, follow these steps:
 
 1. Go to the [Releases](https://github.com/Moxiu9s/ADBandFastbootIn10sec-win/releases) section of this repository.
-2. Download the latest release of `AdbAndFastbootIn10secounds_Installer.exe`.
+2. Download the latest release of `AdbAndFastbootIn10secounds_*ver*_Installer.exe`.
 3. Run the installer by double-clicking on the downloaded `.exe` file.
 4. Follow the prompts in the installer to complete the installation.
 
 ## Usage
 
-- Launch the `AdbAndFastbootIn10secounds_Installer.exe` from the folder where it was extracted.
+- Launch the `AdbAndFastbootIn10secounds_*ver*_Installer.exe` from the folder where it was extracted.
 - The installer will prompt you to install ADB and Fastboot.
 - You can choose whether to add the tools to your system's PATH.
 - Once completed, you can access ADB and Fastboot commands from any Command Prompt window.
