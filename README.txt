@@ -1,4 +1,4 @@
-You Can Use "exe-based" for simplicy just click run installer scrpit and done
+You Can Use "exe-based" for simplicity just click run installer script and done
 
 if you decide to use original_app folder Run .bat File to Avoid Any ISSUES!
 
