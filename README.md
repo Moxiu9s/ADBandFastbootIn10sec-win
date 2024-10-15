@@ -1,1 +1,1 @@
-# FastADB-FastbootInstaller
+# ADBandFastbootIn10sec-win
