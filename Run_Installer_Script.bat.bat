@@ -11,7 +11,7 @@ if %errorlevel% neq 0 (
 cd /d "%~dp0"
 
 :: Run the Python script
-python AdbAndFastbootIn10secounds_1.0.2Fix-2_Installer.py
+python AdbAndFastbootIn10secounds_1.0.3_Installer.py
 
 :: Pause to keep the window open
 pause
